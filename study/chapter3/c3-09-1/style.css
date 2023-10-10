@@ -1,0 +1,16 @@
+html {
+    font-size: 100%;
+}
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-size: 20px;
+}
+div {
+    background: #0bd;
+    width: 500px;
+    height: 300px;
+    margin: 30px 0 0 100px;
+    padding: 40px
+}

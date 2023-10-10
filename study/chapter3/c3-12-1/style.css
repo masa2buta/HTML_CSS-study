@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+ul {
+  list-style-type: square;
+  list-style-position: outside;
+}
+
+li{
+  background-color: blueviolet;
+}
+
+ol {
+  list-style-type: georgian;
+  list-style-position: inside;
+}
